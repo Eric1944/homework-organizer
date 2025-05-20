@@ -1,0 +1,2 @@
+# homework-organizer
+Mājasdarbu pārvaldnieks
