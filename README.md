@@ -3,11 +3,7 @@
 - **Studenta ID:** 241RDB351  
 - **Kurss:** DE0008 Datu un struktūra
 
-# homework-organizer
-Mājasdarbu pārvaldnieks
-
-# Mājasdarbu organizators
-## Projekta mērķis
+## Mājasdarbu organizators (Projekta mērķis)
 
 Izveidot konsoles lietotni Python valodā, kas ļauj studentiem pārvaldīt mājasdarbus: pievienot, apskatīt, dzēst un arhivēt uzdevumus pēc termiņa. 
 Projekts automatizē ikdienas uzdevumu sekošanu un termiņu pārvaldību.
