@@ -1,7 +1,7 @@
 ## Autors
 - **Vārds:** Ēriks Stovba  
 - **Studenta ID:** 241RDB351  
-- **Kurss:** DE0008 Datu un struktūra
+- **Kurss:** DE0008 Datu struktūras un algoritmi
 
 ## Mājasdarbu organizators (Projekta mērķis)
 
